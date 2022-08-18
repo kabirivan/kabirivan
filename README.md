@@ -56,7 +56,7 @@
 
 ## Github Stats:
 
-<img src="https://activity-graph.herokuapp.com/graph?username=kabirivan&theme=react-dark&bg_color=20232a&hide_border=true" width="65%">
+<img src="https://activity-graph.herokuapp.com/graph?username=kabirivan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 
 <a href="https://github.com/kabirivan"><img alt="Xavier's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kabirivan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>

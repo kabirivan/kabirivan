@@ -3,11 +3,27 @@
 <img src='assets/animatedkitty.svg' width='100'/>
 </h1>
 
+## ⚡️ A Few Quick Facts:
+
+- 🔭 I’m currently working on NLP Project
+- 🌱 I’m currently learning React JS ☕
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 UI/UX Designer
+  - 🖼 Machine Learning & Data Science
+  - 🛠 NLP/NLU projects
+  - 🤖 Conversational Assistants
+- 📝 I write technical blogs and articles
+- 💬 Ask me about React, Python, ML, UI, UX, Databases
+- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 🎉 Fun-Fact: I ❤️ Flowers and Crossfit🚀 and watch a lot Sci-Fi Movies🎬
+
+
 
  **I am open to**:
 
 - Any collobration work,
-- Machine learning projects(development),
+- Frontend projects(development),
 - NLP/NLU projects(development or research),
 - Research internships 
 

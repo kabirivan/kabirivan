@@ -1,8 +1,24 @@
-### Hi there 👋
+<p align="center"> 
+  <img src="assets/ivan.jpg" alt="Xavier Aguas" width="80px" height="80px" style={{ border-radius: '50%' }}>
+</p>
+<h1 align="center"> Xavier Aguas </h1>
+<h3 align="center"> Rasa Open Source | Algolia | Airtable | Rasa X </h3>
+<h5 align="center"> Thesis project - <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a> (June 2022) </h5>
 
 
 
-### Frontend Stack
+ **I am open to**:
+
+- Any collobration work,
+- Machine learning projects(development),
+- NLP/NLU projects(development or research),
+- Research internships 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Skills:
+
+#### Frontend Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -16,7 +32,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
 
 
-### Backend Stack
+#### Backend Stack
 
 ![Python](https://img.shields.io/badge/-Python-%23ffffff?style=flat-square&logo=python&logoColor=23FFCE5A)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -28,7 +44,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Development Stack
+#### Development Stack
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
@@ -39,10 +55,17 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### Github Stats
+## Github Stats:
 
 <a href="https://github.com/kabirivan"><img alt="Xavier's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kabirivan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/kabirivan"><img alt="Xavier's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirivan&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I really love making friends.</b> So, if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+

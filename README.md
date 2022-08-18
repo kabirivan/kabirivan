@@ -14,9 +14,10 @@
 - NLP/NLU projects(development or research),
 - Research internships 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 ## Skills:
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 #### Frontend Stack
 

@@ -17,7 +17,7 @@
   - 🤖 Conversational Assistants
 - 📝 I write technical blogs and articles
 - 💬 Ask me about React, Python, ML, UI, UX, Databases
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 📙 Check out my [Resume](https://www.linkedin.com/in/xavier-iván-aguas-5764b5133/)
 - 🎉 Fun-Fact: I ❤️ Flowers and Crossfit🚀 and watch a lot Sci-Fi Movies🎬
 
 

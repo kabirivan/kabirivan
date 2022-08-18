@@ -1,10 +1,7 @@
-<p align="center"> 
-  <img src="assets/ivan.jpg" alt="Xavier Aguas" width="80px" height="80px" style={{ border-radius: '50%' }}>
-</p>
-<h1 align="center"> Xavier Aguas </h1>
-<h3 align="center"> Rasa Open Source | Algolia | Airtable | Rasa X </h3>
-<h5 align="center"> Thesis project - <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a> (June 2022) </h5>
 
+<h1 align="center">
+<img src='assets/animatedkitty.svg' width='100'/>
+</h1>
 
 
  **I am open to**:
@@ -15,9 +12,7 @@
 - Research internships 
 
 
-
-## Skills
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## Skills:
 
 #### Frontend Stack
 
@@ -58,9 +53,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Github Stats:
+
+<img src="https://activity-graph.herokuapp.com/graph?username=kabirivan&theme=react-dark&bg_color=20232a&hide_border=true" width="65%">
+
 
 <a href="https://github.com/kabirivan"><img alt="Xavier's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kabirivan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
 <a href="https://github.com/kabirivan"><img alt="Xavier's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirivan&hide=ASP.NET,jupyter%20notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>

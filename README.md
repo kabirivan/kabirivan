@@ -3,7 +3,6 @@
 </p>
 <h1 align="center"> Always deliver more than expected</h1>
 <h3 align="center"> Empowerment| Vision | Resilience | Empathy | Passion | Patience </h3>
-<h5 align="center"> Thesis project - <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a> (June 2022) </h5>
 
 
 ## ⚡️ A Few Quick Facts:
